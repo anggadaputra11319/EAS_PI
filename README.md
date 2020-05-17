@@ -35,3 +35,7 @@ Method yang digunakan pada model sumbangan :
 ## **Views :**
 Pada EAS_PI saya menggunakan 3 views yaitu: home, sumbangan, dan jenis.
 * **home** : digunakan sebagai halaman awal. Pada halaman awal ini pengguna dapat memilih untuk melakukan donasi atau melihat daftar donasi.
+
+* **sumbangan** : digunakan untuk menampilkan halaman donasi. Pada halaman ini pengguna dapat melakukan input data donasi.
+
+* **jenis** : digunakan untuk menampilkan halaman daftar donasi. Pada halaman ini pengguna dapat melihat rekap donasi.
