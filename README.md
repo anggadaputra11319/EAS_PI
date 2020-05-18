@@ -2,6 +2,9 @@
 ### Nama : Anggada Putra Nagamas
 ### NRP  : 05311840000025
 
+## **Penjelasan Aplikasi :**
+* EAS_PI merupakan website sederhana yang memungkinkan pengguna untuk melakukan donasi dan melihat daftar donasi. Input pada website ini berupa nama, gender, jenis donasi, dan jumlah donasi. Output pada website ini berupa daftar donasi (nama, jenis donasi, dan jumlah donasi).
+
 ## **Setup Program :**
 * Database yang digunakan yaitu donasi.sql
 
