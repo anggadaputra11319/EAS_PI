@@ -44,14 +44,16 @@ Pada EAS_PI saya menggunakan 3 views yaitu: home, sumbangan, dan jenis.
 * **sumbangan** : digunakan untuk menampilkan halaman donasi. Pada halaman ini pengguna dapat melakukan input data donasi seperti nama, jenis kelamin (gender), jenis donasi, dan jumlah donasi.
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/eassumbang.PNG)
 
-Tampilan atau output ketika input data donasi berhasil dilakukan
+Gambar di bawah ini adalah tampilan atau output ketika input data donasi berhasil dilakukan
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/eassumbanganinput.PNG)
 
 * **jenis** : digunakan untuk menampilkan halaman daftar donasi. Pada halaman ini pengguna dapat melihat rekap donasi. Selain itu terdapat fitur search untuk mencari rekap donasi sesuai dengan yang kita inginkan, baik rekap donasi berdasarkan nama penyumbang, jenis donasi, dan jumlah donasi.
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/easjenis.PNG)
 
-Gambar dibawah adalah filter daftar donasi berdasarkan jenis donasi.
+Gambar di bawah ini adalah filter daftar donasi berdasarkan jenis donasi.
 
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/easjenis2.PNG)
+
+Gambar di bawah ini adalah filter daftar donasi berdasarkan nama donatur.
 
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/easjenis3.PNG)
