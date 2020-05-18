@@ -1,4 +1,7 @@
 # EAS_PI
+### Nama : Anggada Putra Nagamas
+### NRP  : 05311840000025
+
 ## **Setup Program :**
 * Database yang digunakan yaitu donasi.sql
 
@@ -37,12 +40,12 @@ Pada EAS_PI saya menggunakan 3 views yaitu: home, sumbangan, dan jenis.
 * **home** : digunakan sebagai halaman awal. Pada halaman awal ini pengguna dapat memilih untuk melakukan donasi atau melihat daftar donasi.
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/eashome.PNG)
 
-* **sumbangan** : digunakan untuk menampilkan halaman donasi. Pada halaman ini pengguna dapat melakukan input data donasi.
+* **sumbangan** : digunakan untuk menampilkan halaman donasi. Pada halaman ini pengguna dapat melakukan input data donasi seperti nama, jenis kelamin (gender), jenis donasi, dan jumlah donasi.
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/eassumbang.PNG)
 
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/eassumbanganinput.PNG)
 
-* **jenis** : digunakan untuk menampilkan halaman daftar donasi. Pada halaman ini pengguna dapat melihat rekap donasi.
+* **jenis** : digunakan untuk menampilkan halaman daftar donasi. Pada halaman ini pengguna dapat melihat rekap donasi. Selain itu terdapat fitur search untuk mencari rekap donasi sesuai dengan yang kita inginkan, baik rekap donasi berdasarkan nama penyumbang, jenis donasi, dan jumlah donasi.
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/easjenis.PNG)
 
 ![alt text](https://github.com/anggadaputra11319/EAS_PI/blob/master/screenshoteas/easjenis2.PNG)
